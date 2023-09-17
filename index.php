@@ -10,7 +10,8 @@
 <body>
 <h2> Hola Mundo.</h2>
 <h2> Hola como estan?.</h2>
-<h2> Primer cambo.</h2>
+<h2> Primer cambio.</h2>
+<h2> Segundo cambio.</h2>
 
 </body>
 </html>
